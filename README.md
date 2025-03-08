@@ -24,7 +24,7 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 3. Välj sektion/typ
 4. Kajakplatser
 5. Välj förråd
-6. Välj XYZ förråd 2023
+6. Välj XYZ förråd 2025
 7. Nu får du upp en ruta "aktivitetsbokning"
 8. Lägg in förråd/platsnummer på Referens för att inte tappa bort det
 9. Bekräfta
@@ -32,6 +32,16 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 11. Öppna med förstoringsglas på Medlemsadministration/Kajakplatser och skriv in Förråd/Platsnummer i rutan Kommentar.
 12. Tryck alltid spara efter åtgärd
 13. I detta läge/ruta kan du också radera bokning i röda rutan om du ska avsluta platsbokning.
+
+![Förråd](/Bilder/Aktivitetsbokning.jpg)
+**Förklaring aktivitetsbokning:**
+- Referens - Kanotplatsnumret
+- Inkludera Startpaket - ?
+- Spara denna bokning som köplats - ?
+- Skapa faktura - Gör detta om årets fakturor redan gått ut så det skickas ut en faktura för detta år för denna. Kan skippas om det är väldigt sent på året så personen inte behöver betala en årsavgift för för kort tid.
+- Skicka inbjudan/erbjudande att Prova-på - ?
+- Skicka avisering via e-post - Medlemmen får e-post att bokningen är gjord
+
 ### Hitta lediga platser
 1. Startsida -> Verksamhet -> Grupper
 2. Klicka i rutan för aktuellt förråd
