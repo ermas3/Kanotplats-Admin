@@ -60,8 +60,8 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 - nycklar@bkk.se
 - [Lista över adresser till andra funktioner](https://www.bkk.se/klubbinfo/styrelse-funktionarer/)
 
-  ## Otydligheter
-  1. Förtydliga hur man hittar vilka nummer som existerar i varje förråd
-  2. Förtydliga varför olika förråd har olika årskostnad
-  3. Skillnad i bokning för C-förrådet och C-Förrådet (Rabatterad)
-  4. Vad gäller för bokning i Pannrummet (förråd P)
+## Otydligheter
+1. Förtydliga hur man hittar vilka nummer som existerar i varje förråd
+2. Förtydliga varför olika förråd har olika årskostnad
+3. Skillnad i bokning för C-förrådet och C-Förrådet (Rabatterad)
+4. Vad gäller för bokning i Pannrummet (förråd P)
