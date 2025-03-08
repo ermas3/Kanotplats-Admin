@@ -34,6 +34,7 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 13. I detta läge/ruta kan du också radera bokning i röda rutan om du ska avsluta platsbokning.
 
 ![Förråd](/Bilder/Aktivitetsbokning.jpg)
+
 **Förklaring aktivitetsbokning:**
 - Referens - Kanotplatsnumret
 - Inkludera Startpaket - ?
