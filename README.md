@@ -54,6 +54,7 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 
 
 ## E-mail adresser
+- Erik bkk: erik@brunnsviken.onmicrosoft.com
 - kanotplats@bkk.se
 - Styrelse@bkk.se
 - kassor@bkk.se
