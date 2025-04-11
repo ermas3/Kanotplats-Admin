@@ -20,18 +20,20 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 3. Klicka på förstoringsglaset längst till vänster så får du alla uppgifter.
 ### Registrera ny kanotplats
 1. Öppna aktuell medlem
-2. Gå till aktiviteter/bokning längst till höger
-3. Välj sektion/typ
-4. Kajakplatser
-5. Välj förråd
-6. Välj XYZ förråd 2025
-7. Nu får du upp en ruta "aktivitetsbokning"
-8. Lägg in förråd/platsnummer på Referens för att inte tappa bort det
-9. Bekräfta
-10. Gå till Status - avdelningen längst ner på medlemsrutan
-11. Öppna med förstoringsglas på Medlemsadministration/Kajakplatser och skriv in Förråd/Platsnummer i rutan Kommentar.
-12. Tryck alltid spara efter åtgärd
-13. I detta läge/ruta kan du också radera bokning i röda rutan om du ska avsluta platsbokning.
+2. Gå till aktiviteter/bokning längst till höger under Verktyg/åtgärder
+3. Klicka på "Skapa aktivitetsbokning"
+4. Välj sektion/typ
+5. Kajakplatser
+6. Välj förråd
+7. Välj XYZ förråd 2025
+8. Nu får du upp en ruta "aktivitetsbokning"
+9. Lägg in förråd/platsnummer på Referens för att inte tappa bort det
+10. OBS: Kontrollera om "Skapa faktura" ska vara ikryssad, se regler nedan.
+11. Bekräfta
+12. Gå till Status - avdelningen längst ner på medlemsrutan
+13. Öppna med förstoringsglas på Medlemsadministration/Kajakplatser och skriv in Förråd/Platsnummer i rutan Kommentar.
+14. Tryck alltid spara efter åtgärd
+15. I detta läge/ruta kan du också radera bokning i röda rutan om du ska avsluta platsbokning.
 
 ![Förråd](/Bilder/Aktivitetsbokning.jpg)
 
