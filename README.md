@@ -54,6 +54,20 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 6. På kommentar ligger platsnummer
 7. De platser som saknar nummer är ej bokade på någon person och lediga
 
+### Avregistrera kanotplats
+1. Startsida -> Sök medlem -> Aktiviteter
+2. Klicka på förstoringsglaset bredvid kanotplatsbokningen i fråga t.ex. "B-förrådet 2025"
+3. Radera bokning
+Alternativt:
+1. Startsida -> Verksamhet -> Grupper
+2. Skrolla ned och välj gruppen för korrekt förråd t.ex. "B-förrådet 2025"
+3. Klicka på Bokningar
+4. Sök via webbläsaren på namn eller kanotplats-nummer för att hitta till rätt person.
+5. Klicka på pilen längst till höger bredvid namnet och välj "Radera"
+
+**OBS:** För de flesta medlemmar så faktureras kanotplats och medlemskap samtidigt. Det innebär tyvärr att om man raderar bokningen för kanotplats så återbetalas hela fakturan inklusive medlemskapet. Du löser detta genom att först radera bokningen för kanotplats och sedan lägga in en ny enskild bokning för medlemskap. Den fakturas kommer sedan betalas automatiskt från den kredit som de fick då bokningen av kanotplatsen raderades.
+
+**TODO:** Kolla upp hur man ser till att inte fakturan återbetalas.
 
 ## E-mail adresser
 - kanotplats@bkk.se
