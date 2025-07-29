@@ -28,6 +28,10 @@ pipenv sync
 3. Du kommer få meddelande om dubbelbokningar och ett "Förråden har ritats och sparats som PDF-filer." när programmet har körts färdigt.
 4. Ladda upp dom nyligen genererade .PDFerna till Github
 
+### Gudier för Pythons package management:
+https://packaging.python.org/en/latest/tutorials/installing-packages/
+https://packaging.python.org/en/latest/tutorials/managing-dependencies/#managing-dependencies
+
 ## Överblick
 Våra förråd:
 - A - Havskanoter
