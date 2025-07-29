@@ -91,8 +91,6 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 2. Klicka på förstoringsglaset bredvid kanotplatsbokningen i fråga t.ex. "B-förrådet 2025"
 3. Ändra referensen (och kommentaren) till "AVBRUTEN" istället för platsen på deras bokning. Vid årskiftet när vi skapar nästa års grupp så ser vi till att inte föra över de avbrutna platserna till nästa år. Detta för att slippa de strul med fakturorna som skapas om man tar bort bokningen.
 
-**TODO:** Kolla upp hur man ser till att inte fakturan återbetalas.
-
 ## E-mail adresser
 - kanotplats@bkk.se
 - styrelse@bkk.se
@@ -105,4 +103,3 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 2. Förtydliga varför olika förråd har olika årskostnad
 3. Skillnad i bokning för C-förrådet och C-Förrådet (Rabatterad)
 4. Vad gäller för bokning i Pannrummet (förråd P)
-5. Vad gör man om en person avslutar sin bokning? Tar man bort deras aktivitetsbokning i systemet så återbetalas deras faktura, vilken också innehåller deras medlemsbokning. Egentligen ska inga pengar betalas tillbaka.
