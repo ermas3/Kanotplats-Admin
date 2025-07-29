@@ -1,5 +1,33 @@
 # Kanotplats-Admin
 
+## HOWTO Project setup och hur man kör koden
+### Installera dependencies
+1. Installera pipenv för dependency management genom att köra detta kommando: 
+```
+python3 -m pip install --user pipenv
+```
+2. Gå in i mappen för projektet
+``` 
+cd **/**/Kanotplats-Admin
+```
+3. Starta en ny Virtual Environment med:
+```
+pipenv shell
+```
+4. Installera packages från Pipfile genom att köra:
+```
+pipenv sync
+```
+
+### Köra koden för att generera bilder
+1. Ladda ner grupplistan från hemsidan genom att klicka i A-Förrådet 2025, B-Förrådet 2025, C-Förrådet 2025, C-Förrådet 2025 rabatterad, P-förrådet 2025. Ladda därefter ner som Grupplista (excel) och byt ut den gamla grupplistan i projekt-mappen mot den nya.
+1. Starta virtual environment:
+```pipenv shell```
+2. Kör koden:
+```python3 kanotplats.py```
+3. Du kommer få meddelande om dubbelbokningar och ett "Förråden har ritats och sparats som PDF-filer." när programmet har körts färdigt.
+4. Ladda upp dom nyligen genererade .PDFerna till Github
+
 ## Överblick
 Våra förråd:
 - A - Havskanoter
