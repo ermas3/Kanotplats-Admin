@@ -81,3 +81,4 @@ Alternativt:
 2. Förtydliga varför olika förråd har olika årskostnad
 3. Skillnad i bokning för C-förrådet och C-Förrådet (Rabatterad)
 4. Vad gäller för bokning i Pannrummet (förråd P)
+5. Vad gör man om en person avslutar sin bokning? Tar man bort deras aktivitetsbokning i systemet så återbetalas deras faktura, vilken också innehåller deras medlemsbokning. Egentligen ska inga pengar betalas tillbaka.
