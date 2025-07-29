@@ -89,15 +89,7 @@ I C-förrådet finns hyrkanoterna, en avdelning för lånekanoter och en för t�
 ### Avregistrera kanotplats
 1. Startsida -> Sök medlem -> Aktiviteter
 2. Klicka på förstoringsglaset bredvid kanotplatsbokningen i fråga t.ex. "B-förrådet 2025"
-3. Radera bokning
-Alternativt:
-1. Startsida -> Verksamhet -> Grupper
-2. Skrolla ned och välj gruppen för korrekt förråd t.ex. "B-förrådet 2025"
-3. Klicka på Bokningar
-4. Sök via webbläsaren på namn eller kanotplats-nummer för att hitta till rätt person.
-5. Klicka på pilen längst till höger bredvid namnet och välj "Radera"
-
-**OBS:** För de flesta medlemmar så faktureras kanotplats och medlemskap samtidigt. Det innebär tyvärr att om man raderar bokningen för kanotplats så återbetalas hela fakturan inklusive medlemskapet. Du löser detta genom att först radera bokningen för kanotplats och sedan lägga in en ny enskild bokning för medlemskap. Den fakturas kommer sedan betalas automatiskt från den kredit som de fick då bokningen av kanotplatsen raderades.
+3. Ändra referensen (och kommentaren) till "AVBRUTEN" istället för platsen på deras bokning. Vid årskiftet när vi skapar nästa års grupp så ser vi till att inte föra över de avbrutna platserna till nästa år. Detta för att slippa de strul med fakturorna som skapas om man tar bort bokningen.
 
 **TODO:** Kolla upp hur man ser till att inte fakturan återbetalas.
 
