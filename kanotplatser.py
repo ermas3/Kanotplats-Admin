@@ -62,6 +62,18 @@ D_layout = np.array([
 D_widths = [1 if col not in {2, 5, 8, 11, 14, 17, 20, 23, 26} else 0.1 for col in range(D_layout.shape[1])]
 D_heights = [1] * D_layout.shape[0]
 
+P_layout = np.array([
+    ["P01", "P06", "V", "P11", "P16", "V", "P21", "P26", "V", None, None, None, None, None, None],
+    ["P02", "P07", "V", "P12", "P17", "V", "P22", "P27", "V", "P40", "P45", "P50", "P55", "P60", "P65"],
+    ["P03", "P08", "V", "P13", "P18", "V", "P23", "P28", "V", "P41", "P46", "P51", "P56", "P61", "P66"],
+    ["P04", "P09", "V", "P14", "P19", "V", "P24", "P29", "V", "P42", "P47", "P52", "P57", "P62", "P67"],
+    ["P05", "P10", "V", "P15", "P20", "V", "P25", "P30", "V", "P43", "P48", "P53", "P58", "P63", "P68"],
+    ["P31", "P32", "V", "P33", "P34", "V", "P35", "P36", "V", "P44", "P49", "P54", "P59", "P64", None],
+])
+P_widths = [1 if col not in {2, 5} else 0.1 for col in range(P_layout.shape[1])]
+P_widths[8] = 0.3
+P_heights = [1] * P_layout.shape[0]
+
 def clean_and_read():
     files = os.listdir() 
     files = [f for f in files if f.endswith('.xlsx') if "Grupplista" in f]
@@ -83,7 +95,6 @@ def clean_and_read():
 
     return df
 
-
 def plot_spots(layout, widths, heights, df, rotate_text=False, save=True, text_x=0.5, text_y=0.5, title_x=0.5, title_y=0.9):
     rows, cols = layout.shape
 
@@ -98,9 +109,9 @@ def plot_spots(layout, widths, heights, df, rotate_text=False, save=True, text_x
             print(f"Plats {member[1]['Kommentar']} ej hittad! Är den felstavad?")
             continue
 
-        # Chekc if ax[row, col] already has a text
+        # Check if ax[row, col] already has a text
         if ax[row, col].texts:
-            print(f"Dubbelbokning på plats {member[1]["Kommentar"]}!")
+            print(f"Dubbelbokning på plats {member[1]['Kommentar']}!")
             ax[row, col].set_facecolor("#f2b963")
 
         ax[row, col].text(text_x, text_y, f"{member[1]['Namn']}\n{member[1]['Telefon 1']}\n{member[1]['Telefon 2']}", ha="center", va="center", wrap=True, fontsize=7, rotation=90*rotate_text)
@@ -136,6 +147,7 @@ def main():
     plot_spots(B_layout, B_widths, B_heights, df[df["Kommentar"].str[0] == "B"], rotate_text=True)
     plot_spots(C_layout, C_widths, C_heights, df[df["Kommentar"].str[0] == "C"])
     plot_spots(D_layout, D_widths, D_heights, df[df["Kommentar"].str[0] == "D"], rotate_text=True)
+    plot_spots(P_layout, P_widths, P_heights, df[df["Kommentar"].str[0] == "P"])
 
     print("Förråden har ritats och sparats som PDF-filer.")
 
