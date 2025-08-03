@@ -138,7 +138,7 @@ def plot_spots(layout, widths, heights, df, rotate_text=False, save=True, text_x
     fig.subplots_adjust(left=0, right=1, top=1, bottom=0, wspace=0, hspace=0)
     
     if save:
-        plt.savefig(f"{layout[1, 1][0]}_förråd.pdf", bbox_inches='tight')
+        plt.savefig(f"./kartor/{layout[1, 1][0]}_förråd.pdf", bbox_inches='tight')
 
 def main():
     df = clean_and_read()
