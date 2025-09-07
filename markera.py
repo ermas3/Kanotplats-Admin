@@ -146,9 +146,14 @@ def main():
         elif "D" in spot:
             plot_spots(D_layout, D_widths, D_heights, spot)
             break
-            
+
+        elif "P" in spot:
+            plot_spots(P_layout, P_widths, P_heights, spot)
+            break
+
         else:
             print("Ogiltig plats.")
+            continue
 
 
     print("Markerad plats har sparats som JPG.")
